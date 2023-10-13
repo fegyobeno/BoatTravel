@@ -1,0 +1,4 @@
+name: BoatTravel
+version: '${project.version}'
+main: boat.boattravel.BoatTravel
+api-version: '1.20'
